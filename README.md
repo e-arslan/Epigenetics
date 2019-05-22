@@ -43,7 +43,8 @@
 
 ## Week 1
 * Chromosome
-![alt text](http://url/to/chromosomes.png)
+
+![alt text](chromosomes.png)
 
 
 
