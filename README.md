@@ -43,6 +43,9 @@
 
 ## Week 1
 * Chromosome
+1. Size. This is the easiest way to tell chromosomes apart.
+2. Banding pattern. The size and location of Giemsa bands make each chromosome unique.
+3. Centromere position. Centromeres appear as a constriction. They have a role in the separation of chromosomes into daughter cells during cell division (mitosis and meiosis).
 
 ![alt text](chromosomes.png)
 
