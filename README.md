@@ -59,12 +59,13 @@ Some RNA molecules can silence specific genes, turning off the production of pro
 ![alt text](chromosomes.png)
 
 * What is Epigenetics
-As an organism grows and develops, carefully orchestrated chemical reactions activate and deactivate parts of the genome at strategic times and in specific locations. Epigenetics is the study of these chemical reactions and the factors that influence them.
 
-** Signals from the outside world can work through the epigenome to change a cell's gene expression.
+As an organism grows and develops, carefully orchestrated chemical reactions activate and deactivate parts of the genome at strategic times and in specific locations. Epigenetics is the study of these chemical reactions and the factors that influence them. Signals from the outside world can work through the epigenome to change a cell's gene expression.
 
+Cancer can begin when mutation changes a cell's DNA sequence. But cancer cells also have abnormal epigenomes. In many cancers, some genes are turned up and some are turned down -- often in the very same cells. Cancer is just one of a growing number of diseases that are being linked to abnormalities in the epigenome.
 
+![alt text](Loose.jpg)
 
-
+![alt text](Tight.jpg)
 
 
