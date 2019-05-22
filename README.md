@@ -65,6 +65,10 @@ As an organism grows and develops, carefully orchestrated chemical reactions act
 Cancer can begin when mutation changes a cell's DNA sequence. But cancer cells also have abnormal epigenomes. In many cancers, some genes are turned up and some are turned down -- often in the very same cells. Cancer is just one of a growing number of diseases that are being linked to abnormalities in the epigenome.
 
 ![alt text](Loose.jpg)
+Cancer cells have a lower level of methylation (more active DNA) than healthy cells. Too little methylation causes:
+1. Activation of genes that promote cell growth.
+2. Chromosome instability: highly active DNA is more likely to be duplicated, deleted, and moved to other locations.
+3. Loss of imprinting
 
 ![alt text](Tight.jpg)
 
